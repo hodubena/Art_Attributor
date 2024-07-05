@@ -31,7 +31,7 @@ Additional Data: CSV file with artist information (genre, nationality, biography
 
 ## Usage
 1. **Option 1: Streamlit UI**
-   - Access a deployed version of this project via Streamlit. Check it out [here]([https://hodubena.shinyapps.io/EPLStandingsPro/](https://artattributor.streamlit.app/)).
+   - Access a deployed version of this project via Streamlit. Check it out [here](https://artattributor.streamlit.app/).
 
 2. **Option 2: Run Locally**
    - Install dependencies listed [here](./requirements.txt).
