@@ -1,7 +1,6 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-pip install tensorflow
 from tensorflow.keras.models import load_model
 from tensorflow.keras.preprocessing.image import img_to_array, load_img
 import requests
