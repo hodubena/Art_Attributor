@@ -1,8 +1,9 @@
 import streamlit as st
 import numpy as np
 import pandas as pd
-from tensorflow.keras.models import load_model
-from tensorflow.keras.preprocessing.image import img_to_array, load_img
+import tensorflow as tf
+from tf.keras.models import load_model
+from tf.keras.preprocessing.image import img_to_array, load_img
 import requests
 from io import BytesIO
 
