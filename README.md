@@ -31,11 +31,11 @@ Additional Data: CSV file with artist information (genre, nationality, biography
 
 ## Usage
 1. **Option 1: Streamlit UI**
-   - Access a deployed version of this project via Streamlit. Check it out [here](https://hodubena.shinyapps.io/EPLStandingsPro/).
+   - Access a deployed version of this project via Streamlit. Check it out [here]([https://hodubena.shinyapps.io/EPLStandingsPro/](https://artattributor.streamlit.app/)).
 
 2. **Option 2: Run Locally**
-   - Install Streamlit: `pip install streamlit`
-   - Run the app: `streamlit run app.py`
+   - Install dependencies listed [here](./requirements.txt).
+   - Run [notebook](./ArtAttributor.ipynb).
   
 ## License
 This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more details.
